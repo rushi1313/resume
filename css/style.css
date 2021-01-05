@@ -1,0 +1,7 @@
+body{
+  background-color: #c3edea;
+}
+hr{
+  border: 0.1rem outset pink;
+  border-width: thin;
+}
